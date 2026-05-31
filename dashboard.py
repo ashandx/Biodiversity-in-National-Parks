@@ -440,3 +440,4 @@ elif page == "Chi-Square Deep Dive":
     st.markdown("---")
     st.subheader("Contingency Table")
     st.dataframe(contingency, use_container_width=False)
+    
